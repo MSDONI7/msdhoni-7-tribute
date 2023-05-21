@@ -1,0 +1,23 @@
+.d-block {
+    width: 80vw;
+}
+
+body {
+    font-family: 'Heebo', sans-serif;
+}
+
+.para-1 {
+    text-align: center;
+    text-align-last: right;
+    font-family: 'Heebo', sans-serif;
+}
+
+.pic {
+    width: 50vw;
+}
+
+.picture {
+    width: 10px;
+    height: 20px;
+    margin-left: 50px;
+}
